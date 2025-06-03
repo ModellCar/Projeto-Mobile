@@ -23,7 +23,7 @@ Tecnologias Utilizadas 🛠️
 ReactNative: Biblioteca para construção da interface de usuário. 
 CarImage API: API externa para obtenção de img de carros. 
 Axios: Para realizar requisições HTTP à API.
-@react-navigation/native (para navegação)
+react-navigation (para navegação)
 Expo
 
 ```
