@@ -1,6 +1,6 @@
 Aplicação CRUD em React com API CarImageAPI Esta é uma aplicação CRUD (Criar, Ler, Atualizar, Deletar) construída com React Native, utilizando a API CarImage para gerenciar imagens de carro.
 
-Funcionalidades ✨ Listar carros: Busca e exibe uma lista de carros da API CarImage. 📜 Criar carro: Adiciona novos carros (simulado, pois a API CarImage é somente leitura para uso público). ➕ Atualizar Jogo: Edita detalhes de jogos (simulado localmente). ✏️ Deletar Jogo: Remove jogos do estado local. 🗑️ Interface Responsiva: Estilizada com Bootstrap para uma interface limpa e amigável em dispositivos móveis. 📱
+Funcionalidades ✨ Listar carros: Busca e exibe uma lista de carros da API CarImage. 📜 Criar carro: Adiciona novos carros (simulado, pois a API CarImage é somente leitura para uso público). ➕ Atualizar Jogo: Edita detalhes de jogos (simulado localmente). ✏️ Deletar Jogo: Remove jogos do estado local. 🗑️ Interface Responsiva: dispositivos móveis. 📱
 
 Tecnologias Utilizadas 🛠️ ReactNative: Biblioteca para construção da interface de usuário. CarImage API: API externa para obtenção de img de carros. Axios: Para realizar requisições HTTP à API.
 
