@@ -13,7 +13,7 @@ Instale as dependências: npm install
 Inicie o servidor de desenvolvimento: npm run dev
 
 Estrutura de pastas:
-´´´
+```
 FRONT-MOBILE-FEITO-EM-REACTNATIVE
 ├── .expo
 ├── assets
@@ -35,7 +35,7 @@ FRONT-MOBILE-FEITO-EM-REACTNATIVE
 ├── index.js
 ├── package-lock.json
 ├── package.json
-´´´
+```
 
 Uso 🎯 Pesquisa: Use a barra de pesquisa para filtrar carros por nome (filtro no lado do cliente). 🔍 Adicionar carro: Basta ir até o carro que pesquisou na barra de pesquisa. Editar carro: Clique no botão "Editar" em um card de carro para atualizar seus detalhes(avaliação e descrição). Deletar carro: Clique no botão "Deletar" para remover um carro da lista. Pesquisa: Use a barra de pesquisa para filtrar carros por nome (filtro no lado do cliente). 🔍
 
