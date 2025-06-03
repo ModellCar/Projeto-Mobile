@@ -60,5 +60,6 @@ Dependências 📦:
 
 Feito por lucas, Gabriel e matheus
 
-![image](https://github.com/user-attachments/assets/e4c33ae8-4fd7-4111-814a-3a43e093bd0e)
+![image](https://github.com/user-attachments/assets/e4c33ae8-4fd7-4111-814a-3a43e093bd0e) ![image](https://github.com/user-attachments/assets/9014a7c4-a3af-432a-b0b1-2c3a5411c2f3)
+
 
