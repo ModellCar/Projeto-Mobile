@@ -58,4 +58,7 @@ Dependências 📦:
 
 ->react-native-paper ou react-native-elements (para UI, opcional)
 
-Feito por lucas, GabrielSedcu1 e matheus
+Feito por lucas, Gabriel e matheus
+
+![image](https://github.com/user-attachments/assets/e4c33ae8-4fd7-4111-814a-3a43e093bd0e)
+
